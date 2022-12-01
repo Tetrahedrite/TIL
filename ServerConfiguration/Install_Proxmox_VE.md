@@ -19,10 +19,12 @@
 기본 구독 채널은 pve-enterprise이다.
 [링크](https://www.uname.in/61)를 참고하여 동일한 방식으로 진행한다.
 
-![[proxmoxSubscription.png]]
+![](proxmoxSubscription.png)
 
 - 이후 구성은 잠시 중단한다. 스토리지 구성에 필요한 물품이 도착하지 않음 :(
 
 도움 준 사람 / 링크:
+
 Bell - [GitHub](https://github.com/DragonString), [GitLab](https://gitlab.bellsoft.net/Bell)
+
 [Proxmox 업데이트 채널 변경](https://www.uname.in/61)

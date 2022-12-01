@@ -5,19 +5,12 @@
 
 # Daily
 
-- [2022-12-01](Daily/2022-12-01) - 서버 구성 (pfsense 설치, Proxmox VE 설치)
+- [2022-12-01](Daily/2022-12-01.md) - 서버 구성 (pfsense 설치, Proxmox VE 설치)
 
 # Subject
 
 ## Server Configuration (서버 구성)
 
-- [내가 서버 구성을 하는 이유](ServerConfiguration/Reasons%20Why.md)
-- [pfSense 설치 (방화벽 및 라우팅)](ServerConfiguration/Install pfSense)
-- [Proxmox VE 설치 (타입 1 하이퍼바이저)](ServerConfiguration/Install Proxmox VE)
-
-
-# 👍👍DJ Sci-Fi Bell👍👍
-
-- 내가 본 개발자 중에 최고의 개발자!
-
-개추: 👍(MicroEdge), 👍(낼름이), 👍(AWOS)
+- [내가 서버 구성을 하는 이유](ServerConfiguration/Reasons_Why.md)
+- [pfSense 설치 (방화벽 및 라우팅)](ServerConfiguration/Install_pfSense.md)
+- [Proxmox VE 설치 (타입 1 하이퍼바이저)](ServerConfiguration/Install_Proxmox_VE.md)

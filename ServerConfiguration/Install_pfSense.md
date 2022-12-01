@@ -23,7 +23,8 @@
 - Web GUI에 로그인(admin / pfsense)하여 추가 설정 진행
 - 대시보드 정상 여부 확인
 
-![[pfSenseDashboard.png]]
+![](pfSenseDashboard.png)
 
 도움 준 사람 / 링크:
+
 Bell - [GitHub](https://github.com/DragonString), [GitLab](https://gitlab.bellsoft.net/Bell)
